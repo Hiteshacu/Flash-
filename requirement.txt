@@ -1,0 +1,5 @@
+flask
+Python
+gunicorn(For continuous run)
+pytest
+
