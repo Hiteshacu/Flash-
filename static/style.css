@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.container{
+    color: white;
+    background: rgb(88, 67, 67);
+    border-radius: 30px;
+    width: 70%;
+}
+
+img{
+    width: 400px;
+    height: 600px;
+    align-items: center;
+    border-radius: 50%;
+}

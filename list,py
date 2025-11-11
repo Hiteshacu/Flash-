@@ -1,0 +1,17 @@
+f=['apple','banana']
+for i in f:
+    print(i)
+
+f.append('mango')
+print(len(f))
+
+f.insert(1,'orange')
+print(f)
+
+f.remove('apple')
+print(f)
+
+f.pop()
+print(f)
+
+
